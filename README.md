@@ -3,7 +3,7 @@
 App elaborada con la librería React, utilizando hooks propios de la mismas y algunas librería externas para mejorar la experiencia de usuario. Se utilizó Style Components par dar estilos de manera personalizada a cada componente, evitando que una modificación de los mismo altere los demas.
 La APP mediante una llama a una API externa permite cotizar el precio de cualquier cryptomoneda en el valor de cualquier moneda, o las principales. EL proyecto cuenta con la creación de hook propio para ser reutilizable en otro componente. Las opciones de las diferentes cryptomonedas se obtienen de manera dinámica de la misma info recibida por la API (https://www.cryptocompare.com/). Se incluyo un spinner para mejorar la experiencia del usuario mientras demora las respuesta de la API.
 
-[Acceso a App](https://control-gastos-eta.vercel.app/)
+[Acceso a App](https://cotizador-cryptomonedas.vercel.app/)
 
 ## Video Demo
 
